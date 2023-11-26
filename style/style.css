@@ -1,0 +1,237 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    padding:0;
+    margin :0 auto;
+    box-sizing: border-box;
+    }
+    .shopingCard-container{
+        Width:872px;
+        Height:406px;
+        border:  1px solid #E4E7E9;
+        border-radius: 4px;
+        font-size: 18px;
+    }
+    .h1{
+        Width:872px;
+        Height:64px;
+        Padding:20px 24px 20px 24px;
+        font-size: 10px;
+        border-bottom: 1px solid #E4E7E9;
+        color: #191C1F;
+        line-height: 24px;
+    }
+    .Products-container{
+        Width:872px;
+        Height:38px;
+        border-bottom: 1px solid #E4E7E9;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 24px ;
+        background-color: #F2F4F5 ;
+        Padding:10px 24px 10px 24px;
+        font-size: 13px;
+    }
+    .PRODUCTS {
+        Width: 380px;;
+        Height:18px; 
+        color: #475156;
+        line-height: 18px;
+    }
+    .PRICE {
+        Width:88px;
+        Height:18px; 
+        color: #475156;
+        line-height: 18px;
+    }
+    .Quantity {
+        Width: 172px;px;
+        Height:18px; 
+        color: #475156;
+        line-height: 18px;
+    }
+    .Sub-Total {
+        Width:112px;
+        Height:18px; 
+        color: #475156;
+        line-height: 18px;
+    }
+    .shopp-container {
+        Width: 870px;
+        Height:208px; 
+        padding: 24px;
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+    }
+    .container1{
+        Width: 824px;
+        Height:72px; 
+        gap: 24px;
+        /* border:  1px solid #191C1F; */
+    }
+     .items{
+        Width: 380px;
+        Height:72px; 
+        display: flex;
+        flex-direction:row;
+        justify-content:start ;
+        align-items: center;
+        gap: 12px;
+        /* border:  1px solid #191C1F; */
+        margin: 0 10px 0 0px;
+     }
+    .XCircle {
+        Width: 24px;
+        Height:24px; 
+    }
+    .img-proc {
+        Width: 72px;
+        Height:72px; 
+        border-radius: 2px;
+    }
+    .text-proc{
+        Width: 260px;
+        Height:40px;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 20px;
+        padding-right: 15px;
+    }
+
+    .next-items {
+
+    }
+    .price-box {
+        Width: 88px;
+        Height:20px;
+        
+}
+.Quantity-box {
+    Width: 172px;
+        Height:48px;
+        padding: 0 24px 0 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    gap:10px;
+}
+.Sub-box {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+   .item1{
+        Width:872px;
+        Height:72px; 
+        margin-top:10px ;
+        display: flex;
+        flex-direction: row;
+        justify-content:flex-start;
+        align-items: center;
+        border: 2px solid #475156;
+   }  
+    .img-item {
+        Width:72px;
+        Height:72px;    
+        border-radius: 2px;
+
+    }
+    .text-item {
+        Width:419px;
+        Height:40px;  font-weight: 400;
+        line-height: 20px;
+        font-size: 14px;
+        color: #475156;
+        display: flex;
+        align-items: center;
+
+    }
+    .price-item {
+        Width:200px;
+        Height:20px; 
+        color: #191C1F;
+    }
+    #gray-price{
+        color: #929FA5 ;
+        text-decoration: line-through;
+        padding-right: 5px;
+    }
+    .stock-item {
+        Width:200px;
+        Height:20px; 
+        font-weight: 600;
+        font-size: 15px;
+        color: #2DB224;
+    }
+    .shoppingcard{
+        Width:221px;
+        Height:48px; 
+        display: flex;
+        align-items: center;
+        /* justify-content: center; */
+        gap: 24px;
+    }
+  .submit{
+    Width:173px;
+    Height:48px; 
+    background-color: #FA8232 ;
+    color: #fff;
+    border: none;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding-left: 20px;
+    cursor: pointer;
+  }
+    .ShoppingCartSimple {
+        Width:20px;
+        Height:20px; 
+    }
+    .XCircle {
+        Width:24px;
+        Height:24px; 
+    }
+    #submit{
+        Width:173px;
+        Height:48px; 
+        color: #fff;
+        border: none;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding-left: 20px;
+        cursor: pointer;
+        background-color:#ADB7BC ;
+     }
+  .stock-itemoff{
+     Width:173px;
+     Height:48px; 
+     color: #EE5858;
+     Width:200px;
+     Height:20px; 
+     font-weight: 600;
+    } */
